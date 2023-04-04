@@ -1,4 +1,5 @@
 # Hello PWA
+
 The classic Hello World program as a Progressive Web App
 
 ![Hello World Screenshot](./screenshot.jpg "Hello World Screenshot")
@@ -19,7 +20,9 @@ https://jamesjohnson280.github.io/hello-pwa/
 
 Hello PWA has been tested in the following browsers:
 
-* Chrome 67 (Windows and Android)
-* Firefox 60
-* Safari 11
-* Edge 42
+- Chrome 67 (Windows and Android)
+- Firefox 60
+- Safari 11
+- Edge 42
+
+THIS IS ONLY DUMMY TEXT, FOR LEARNING PURPOSE ONLY.
